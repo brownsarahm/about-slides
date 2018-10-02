@@ -4,8 +4,10 @@ layout: post
 
 ### Get Involved
 
-these slides: http://drsmb.co/bds
+[the carpentries](https://carpentries.org/)
 
-e-mail me: `sarah_m_brown@brown.edu`
+[mozilla open leaders](https://mozilla.github.io/open-leadership-training-series/)
 
-my hacktoberfest project: http://drsmb.co/hacktoberfest
+[hacktoberfest](toberfest.digitalocean.com/#resources)
+
+[my project](https://github.com/brownsarahm/python-data-project)
